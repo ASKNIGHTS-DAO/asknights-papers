@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1040" width="1400" height="1040" role="img" aria-labelledby="ttl desc">
+<title id="ttl">How a work moves through ASKNIGHTS curation</title>
+<desc id="desc">Five steps: gather the evidence; independent AI views, name hidden then shown; specialist perspectives including a devil's advocate; a synthesis that shows disagreements, where red flags cannot be outvoted; and a human decision with reasons. Four possible outcomes: Select, Conditional, Defer, Decline. Three principles: human accountability; independence from any one supplier; contradictions surfaced, not averaged.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9a45c"/></marker></defs>
+<rect width="1400" height="1040" rx="20" fill="#14120f"/>
+<text x="50" y="70" font-family="'Cormorant SC', Fraunces, Georgia, serif" font-size="19" font-weight="600" font-style="normal" fill="#c9a45c" text-anchor="start" letter-spacing="5">ASKNIGHTS  ·  HOW WE CURATE</text>
+<text x="50" y="122" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="42" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">From evidence to a human decision</text>
+<text x="50" y="160" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="21" font-weight="300" font-style="italic" fill="#c9c1b2" text-anchor="start" letter-spacing="0">People perceive; machines predict. AI informs; humans decide.</text>
+<rect x="50" y="180" width="70" height="2" fill="#c9a45c"/>
+<rect x="50" y="215" width="236" height="270" rx="14" fill="#1f1b16" stroke="#c9a45c" stroke-opacity="0.55" stroke-width="1.2"/>
+<circle cx="90" cy="259" r="21" fill="none" stroke="#c9a45c" stroke-width="1.6"/>
+<text x="90" y="267" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#c9a45c" text-anchor="middle" letter-spacing="0">1</text>
+<text x="72" y="325" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">Gather the</text>
+<text x="72" y="354" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">evidence</text>
+<text x="72" y="393" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">Facts marked confirmed</text>
+<text x="72" y="415" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">or not. Gaps stay</text>
+<text x="72" y="437" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">visible, never guessed.</text>
+<line x1="290" y1="350.0" x2="312" y2="350.0" stroke="#c9a45c" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="316" y="215" width="236" height="270" rx="14" fill="#1f1b16" stroke="#c9a45c" stroke-opacity="0.55" stroke-width="1.2"/>
+<circle cx="356" cy="259" r="21" fill="none" stroke="#c9a45c" stroke-width="1.6"/>
+<text x="356" y="267" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#c9a45c" text-anchor="middle" letter-spacing="0">2</text>
+<text x="338" y="325" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">Independent</text>
+<text x="338" y="354" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">AI views</text>
+<text x="338" y="393" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">Separate reviews: name</text>
+<text x="338" y="415" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">hidden first, then shown,</text>
+<text x="338" y="437" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">to see when fame moves</text>
+<text x="338" y="459" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">an opinion.</text>
+<line x1="556" y1="350.0" x2="578" y2="350.0" stroke="#c9a45c" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="582" y="215" width="236" height="270" rx="14" fill="#1f1b16" stroke="#c9a45c" stroke-opacity="0.55" stroke-width="1.2"/>
+<circle cx="622" cy="259" r="21" fill="none" stroke="#c9a45c" stroke-width="1.6"/>
+<text x="622" y="267" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#c9a45c" text-anchor="middle" letter-spacing="0">3</text>
+<text x="604" y="325" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">Specialist</text>
+<text x="604" y="354" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">perspectives</text>
+<text x="604" y="393" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">Focused questions, one</text>
+<text x="604" y="415" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">aspect each, plus a</text>
+<text x="604" y="437" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">devil's advocate arguing</text>
+<text x="604" y="459" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">against selection.</text>
+<line x1="822" y1="350.0" x2="844" y2="350.0" stroke="#c9a45c" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="848" y="215" width="236" height="270" rx="14" fill="#1f1b16" stroke="#c9a45c" stroke-opacity="0.55" stroke-width="1.2"/>
+<circle cx="888" cy="259" r="21" fill="none" stroke="#c9a45c" stroke-width="1.6"/>
+<text x="888" y="267" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#c9a45c" text-anchor="middle" letter-spacing="0">4</text>
+<text x="870" y="325" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">A synthesis that</text>
+<text x="870" y="354" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">shows conflicts</text>
+<text x="870" y="393" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">Views brought together;</text>
+<text x="870" y="415" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">conflicts highlighted,</text>
+<text x="870" y="437" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">not averaged away.</text>
+<line x1="1088" y1="350.0" x2="1110" y2="350.0" stroke="#c9a45c" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="1114" y="215" width="236" height="270" rx="14" fill="#2a2318" stroke="#c9a45c" stroke-opacity="1" stroke-width="2.2"/>
+<circle cx="1154" cy="259" r="21" fill="#c9a45c" stroke="#c9a45c" stroke-width="1.6"/>
+<text x="1154" y="267" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#14120f" text-anchor="middle" letter-spacing="0">5</text>
+<text x="1136" y="325" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">A human</text>
+<text x="1136" y="354" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">decision</text>
+<text x="1136" y="393" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">A named curator weighs</text>
+<text x="1136" y="415" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">everything and records</text>
+<text x="1136" y="437" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">the decision with</text>
+<text x="1136" y="459" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">reasons.</text>
+<rect x="50" y="511" width="1034" height="74" rx="12" fill="none" stroke="#c9a45c" stroke-width="1.4" stroke-dasharray="6 5"/>
+<line x1="78" y1="533" x2="78" y2="565" stroke="#c9a45c" stroke-width="2"/><path d="M78,533 L98,539 L78,546 z" fill="#c9a45c"/>
+<text x="114" y="543" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">Red flags cannot be outvoted</text>
+<text x="114" y="568" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">Doubts about authorship · provenance · copying · preservation · a phygital link stay on the table until resolved with evidence.</text>
+<line x1="966.0" y1="485" x2="966.0" y2="511" stroke="#c9a45c" stroke-width="1.4" stroke-dasharray="3 4"/>
+<line x1="1232.0" y1="485" x2="1232.0" y2="650" stroke="#c9a45c" stroke-width="2"/>
+<line x1="205" y1="650" x2="1232.0" y2="650" stroke="#c9a45c" stroke-width="2"/>
+<text x="50" y="622" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" font-style="normal" fill="#c9a45c" text-anchor="start" letter-spacing="3">FOUR POSSIBLE OUTCOMES</text>
+<line x1="205.0" y1="650" x2="205.0" y2="680" stroke="#c9a45c" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="50" y="684" width="310" height="124" rx="12" fill="#1f1b16" stroke="#c9a45c" stroke-opacity="0.55" stroke-width="1.2"/>
+<rect x="50" y="684" width="310" height="6" rx="3" fill="#c9a45c" fill-opacity="1.0"/>
+<text x="72" y="730" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">Select</text>
+<text x="72" y="764" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">Yes. We are glad to stand</text>
+<text x="72" y="786" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">behind this work and show it.</text>
+<line x1="535.0" y1="650" x2="535.0" y2="680" stroke="#c9a45c" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="380" y="684" width="310" height="124" rx="12" fill="#1f1b16" stroke="#c9a45c" stroke-opacity="0.55" stroke-width="1.2"/>
+<rect x="380" y="684" width="310" height="6" rx="3" fill="#c9a45c" fill-opacity="0.8"/>
+<text x="402" y="730" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">Conditional</text>
+<text x="402" y="764" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">Yes, with conditions, such as</text>
+<text x="402" y="786" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">a disclosure supplied first.</text>
+<line x1="865.0" y1="650" x2="865.0" y2="680" stroke="#c9a45c" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="710" y="684" width="310" height="124" rx="12" fill="#1f1b16" stroke="#c9a45c" stroke-opacity="0.55" stroke-width="1.2"/>
+<rect x="710" y="684" width="310" height="6" rx="3" fill="#c9a45c" fill-opacity="0.6"/>
+<text x="732" y="730" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">Defer</text>
+<text x="732" y="764" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">Not yet. We would rather wait</text>
+<text x="732" y="786" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">for evidence than guess.</text>
+<line x1="1195.0" y1="650" x2="1195.0" y2="680" stroke="#c9a45c" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="1040" y="684" width="310" height="124" rx="12" fill="#1f1b16" stroke="#c9a45c" stroke-opacity="0.55" stroke-width="1.2"/>
+<rect x="1040" y="684" width="310" height="6" rx="3" fill="#c9a45c" fill-opacity="0.45"/>
+<text x="1062" y="730" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">Decline</text>
+<text x="1062" y="764" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">Not for us, for now. Not a</text>
+<text x="1062" y="786" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">verdict on an artist's worth.</text>
+<rect x="50" y="852" width="1300" height="1" fill="#c9a45c" fill-opacity="0.6"/>
+<text x="50" y="890" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" font-style="normal" fill="#c9a45c" text-anchor="start" letter-spacing="3">THREE PRINCIPLES</text>
+<text x="50.0" y="932" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">Human accountability</text>
+<text x="50.0" y="962" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">No automated system decides.</text>
+<text x="50.0" y="984" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">A named curator is accountable.</text>
+<rect x="467.3333333333333" y="914" width="1" height="92" fill="#c9a45c" fill-opacity="0.45"/>
+<text x="483.3333333333333" y="932" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">Independence from any one supplier</text>
+<text x="483.3333333333333" y="962" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">AI- and blockchain-agnostic:</text>
+<text x="483.3333333333333" y="984" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">tools are interchangeable.</text>
+<rect x="900.6666666666666" y="914" width="1" height="92" fill="#c9a45c" fill-opacity="0.45"/>
+<text x="916.6666666666666" y="932" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#f3efe6" text-anchor="start" letter-spacing="0">Contradictions surfaced, not averaged</text>
+<text x="916.6666666666666" y="962" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">A serious, evidenced concern</text>
+<text x="916.6666666666666" y="984" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-weight="400" font-style="normal" fill="#c9c1b2" text-anchor="start" letter-spacing="0">is shown, never hidden.</text>
+<text x="1350" y="1018" font-family="Fraunces, 'Source Serif Pro', Georgia, serif" font-size="13" font-weight="300" font-style="italic" fill="#8a8378" text-anchor="end" letter-spacing="0">Decisions are recorded and never quietly edited.</text>
+</svg>
