@@ -119,6 +119,10 @@ ASKNIGHTS is a community of artists, collectors and art lovers who care about la
 
 The ASKNIGHTS token is a utility token. It gives access to ASKNIGHTS-DAO and a place on the whitelist for future airdrops and giveaways. ASKNIGHTS NFTs carry the same access utility. This is a matter of access only. We promise no airdrop or giveaway.
 
+### Fees
+
+ASKNIGHTS charges a 15% marketplace fee. Artists never pay to be curated. As the marketplace grows, we intend to lower the fee in stages, as far as the business can sustain without outside funding. This is an intention, not a commitment to any figure or date.
+
 ---
 
 ## 4. How we curate
